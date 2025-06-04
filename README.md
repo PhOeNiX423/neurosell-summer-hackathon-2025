@@ -42,5 +42,5 @@
 1. Склонируйте репозиторий:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/your-username/neurosell-summer-hackathon-2025.git
+cd neurosell-summer-hackathon-2025
